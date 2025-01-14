@@ -16,8 +16,8 @@ An AI-powered phone agent for real-time customer interaction with voice input, s
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone 
-   cd AI-Phone-Agent
+   git clone https://github.com/Aaradhya13/ai_agent.git
+   cd ai_agent
    
 2. Install dependencies:
    pip install -r app/requirements.txt
