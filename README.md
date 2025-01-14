@@ -26,3 +26,6 @@ An AI-powered phone agent for real-time customer interaction with voice input, s
 4. Run the Streamlit app:
     ```bash
    streamlit run app.py
+
+## Check it out:
+https://drive.google.com/file/d/1jI7CL42HhFAxya9xF3YEDZhhA1jOwgHl/view?usp=sharing
