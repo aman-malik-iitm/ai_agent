@@ -20,7 +20,9 @@ An AI-powered phone agent for real-time customer interaction with voice input, s
    cd ai_agent
    
 2. Install dependencies:
+    ```bash
    pip install -r app/requirements.txt
    
-3. Run the Streamlit app:
+4. Run the Streamlit app:
+    ```bash
    streamlit run app/app.py
